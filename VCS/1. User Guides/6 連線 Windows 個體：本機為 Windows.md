@@ -8,9 +8,9 @@ GA: UA-155999456-1
 {%hackmd @docsharedstyle/twccheader-en %}
 
 
-# Connect to Windows instance: localhost as Windows
+# Connect to Windows instance: local machine as Windows
 
-After finished [Preparation and Obtain connection information](https://man.twcc.ai/@twccdocs/vcs-guide-connect-prerequisite-en), please refer to the following method to connect to the Windows instance ( localhost as Windows).
+After finished [Preparation and Obtain connection information](https://man.twcc.ai/@twccdocs/vcs-guide-connect-prerequisite-en), please refer to the following method to connect to the Windows instance ( local machine as Windows).
 
 :::info
 {%hackmd @docsharedstyle/note-en %}
