@@ -29,11 +29,13 @@ GA: UA-155999456-1
 
 - **Step 1.** 點選 Jupyter 右方之「**開啟**」，即可開啟內建的 Jupyter Notebook 操作網頁。
 
-![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_536d3b7c1e7631fc0a40616396953b3e.png)
+![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_b2e1970c672d6c4acad144b0e4f2fd52.png)
+
 
 - **Step 2.** 再點選 「**New**」 > 「**Terminal**」，即可連線進入容器環境，開始在容器內進行人工智慧運算工作。
 
-![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_4d710c1fb912cf901ebfae96d73c06d2.png)
+![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_0622789eaf6ab082b9a7f60710ad9a97.png)
+
 
 
 </details>
@@ -65,7 +67,8 @@ $ twccli ls ccs -s 1249374 -gjpnb
 
 - **Step 3.** 再點選 「**New**」 > 「**Terminal**」，即可連線進入容器環境。
 
-![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_4d710c1fb912cf901ebfae96d73c06d2.png)
+![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_35009707a1d78c24d0f8c1a4ff97f7f9.png)
+
 
 
 </details>
