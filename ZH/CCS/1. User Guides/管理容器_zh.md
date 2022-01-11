@@ -39,7 +39,8 @@ GA: UA-155999456-1
 - 進入開發型容器詳細資料「**配置**」頁面，可以檢視容器的基本資訊、網路、儲存等資訊，連線登入使用該容器
 - 或執行「**複本**」、「**删除**」、「**重新整理**」和查看「**容器日誌**」等功能。
 
-![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_6c4979fd3d11f5bfbc9fa80997b44e73.png)
+![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_a80e0b1078a20078a4e1e6302fa6ad20.png)
+
 
 </details>
 
@@ -92,7 +93,8 @@ $ twccli ls ccs -all
 
 - 另外也可於「**開發型容器詳細資料**」頁，點選上方「**刪除**」刪除容器。
 
-![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_2881ea99d7be4882eab6634184a14f8d.png)
+![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_950aea79889ef8fa5c8cd08752a68b1e.png)
+
 
 
 </details>
@@ -115,4 +117,3 @@ $ twccli ls ccs -all
 $ twccli rm ccs -s 934369
 ```
 </details>
-
