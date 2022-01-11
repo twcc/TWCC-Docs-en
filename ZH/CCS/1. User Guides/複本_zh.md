@@ -41,18 +41,21 @@ TWCC 開發型容器複本提供您保存自行部署完成的容器映像檔，
 
 * 輸入容器複本的標籤後按下確認。
 
-![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_3c61142cd535ad3ae8c6261ba6e24446.png)
+![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_50d11d1f5265f3ef806c4cd2b13f6e31.png)
+
 
 
 
 * 容器複本建立後，會出現在開發型容器複本管理的列表中，建立容器複本需要幾分鐘的時間，此時複本狀態顯示為 **`Requested`**。
 
-![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_c7610e5a815484451e2b5301fcbee47c.png)
+![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_89012cc2537b6663443bcdbdc4231be8.png)
+
 
 
 * 數分鐘後，當複本狀態變成 **`Resolved`** 即可開始使用。
 
-![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_f95a3d01322b8d65e0a38d1bb0f135b8.png)
+![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_77e7c9a2444f9f627d129850c5ae1383.png)
+
 
 </details>
 
@@ -110,13 +113,15 @@ $ twccli ls ccs -dup
 
 * 在選擇映像檔類型頁面，點選「**Custom Image**」
 
-![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_81035131a533a3a71a3df759542725c3.png)
+![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_c25dfcc84ecbc3a0bc7deeffd88aefae.png)
+
 
 
 
 * 填寫容器基本資訊與硬體規格配置，並選擇自訂的映像檔，接著點擊「**下一步：儲存資訊>**」，其他步驟同建立開發型容器。
 
-![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_eb232de503b359b00ddf85467ca46c87.png)
+![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_3fb657e6b5f37fc5cc9370b5be2bbe17.png)
+
 
 :::info
 <i class="fa fa-paperclip fa-20" aria-hidden="true"></i> **附註：** 同計畫內的成員皆可以共享使用複本，在映像檔下拉清單內可見計畫下所有的容器複本。
@@ -149,5 +154,3 @@ $ twccli mk ccs -itype "Custom Image" -img "tensorrt-19.08-py3:dup1" -n dupcli
 ![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_6b2071ecdbafd5db2f98fbbf11b3e2ea.png)
 
 </details>
-
-
