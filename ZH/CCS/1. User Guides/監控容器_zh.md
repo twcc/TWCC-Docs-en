@@ -23,12 +23,14 @@ TWCC 入口網站共有兩處可檢視容器監控的資訊，可監控 CPU、GP
 
 * 並於「**開發型容器詳細資料**」頁內選擇「**監控**」頁籤，即可查看容器監控資訊。
 
-![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_94b45d72d114f2c87c304ba2b8519d11.png)
+![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_953258fa28b9fa1bb8acb5c9b3dba9a4.png)
+
 
 - 游標移至任一監控圖上，可點選 <i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i> 圖示下載監控圖檔 (`.png`) 留存。
 - 右側選單則可選擇時間，可觀察特定時長內之容器資源使用變化。
 
-![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_9b54e4788cd5e5d83a8ef33597c8d27c.png)
+![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_328da054697beed75ae6f93bf9609fa9.png)
+
 
 :::info
 {%hackmd @docsharedstyle/note-zh %}
@@ -44,7 +46,8 @@ TWCC 入口網站共有兩處可檢視容器監控的資訊，可監控 CPU、GP
 
 * 選擇完成下方即可查看容器服務提供的監控資訊。
 
-![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_c930599343c37d5dbf22abe9eb28f6b6.png)
+![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_700520c25ce05d86d97785ef236e149b.png)
+
 
 - 如同「**開發型容器詳細資料**」頁，可下載監控圖檔、觀察特定時長內之容器資源使用變化。另外，還可以檢視**個人在特定時間內 GPU 累計的使用量、GPU 使用的時間**。
 
@@ -56,4 +59,3 @@ TWCC 入口網站共有兩處可檢視容器監控的資訊，可監控 CPU、GP
 {%hackmd @docsharedstyle/note-zh %}
 「**租戶使用者**」僅能看到自己資源使用資訊，「**租戶管理員**」則可以看到計畫內所有使用者資源使用情形，以便控管整個專案的資源使用額度。
 :::
-
