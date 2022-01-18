@@ -36,7 +36,8 @@ TWCC 開發型容器複本提供您保存自行部署完成的容器映像檔，
 
 * 進入開發型容器詳細資料「**配置**」頁面，點擊上方「**複本**」按鈕。
 
-![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_796e7a60a805efb02daad9392ec4f376.png)
+![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_b88c1086486a5b16ed6d02cfe76313d2.png)
+
 
 
 * 輸入容器複本的標籤後按下確認。
@@ -154,3 +155,4 @@ $ twccli mk ccs -itype "Custom Image" -img "tensorrt-19.08-py3:dup1" -n dupcli
 ![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_6b2071ecdbafd5db2f98fbbf11b3e2ea.png)
 
 </details>
+
