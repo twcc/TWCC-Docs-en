@@ -128,7 +128,7 @@ twcctest1234@t36g6ptest03-ndg8f:~$
 
 <br>
 
-- **Step 1.** 取得 SSH 容器 ID 為 **`1249380`** 的容器 SSH 連線資訊
+- **Step 1.** 取得 SSH 容器 ID 為 **`1249374`** 的容器 SSH 連線資訊
 
 ```bash
 $ twccli ls ccs -s 1249374 -gssh
