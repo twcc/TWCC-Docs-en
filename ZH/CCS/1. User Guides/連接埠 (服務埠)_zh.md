@@ -74,7 +74,8 @@ $ twccli ls ccs -p -s 886330
 
 - 點選「**關聯**」服務埠 :arrow_right: 勾選服務 daemon 的所在埠號 `5002` :arrow_right: 點選「**確認**」
         
-![](https://i.imgur.com/d6O2sWE.png)
+![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_5a3bbc0d7dd3d884b12077fd23f410d7.png)
+
         
 - 完成後，系統將分配一個「**對外埠**」(`53055`)，對應至目標埠 (`5002`)
         
