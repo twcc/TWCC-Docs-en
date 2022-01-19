@@ -13,9 +13,9 @@ TWCC 開發型容器開放 22、8888、5000、5001、5002，5 個**目標埠**�
 
 容器已預設將 SSH 設置在 22 埠、Jupyter Notebook 設置在 8888 埠，並自動完成關聯，因此容器建立完成後，您即可立即使用這兩種方式連線操作容器。
 
-您可以自行運用的**目標埠**為：5000、5001、5002。將架設於容器內服務的 daemon 設置在其中一個目標埠，並關聯對外埠，完成後，系統將配置一個對應的**對外埠 (50000 ~ 60000)**，您即可於透過公用 IP 和對外埠，對外提供該服務 (例：[AI 推論服務](https://man.twcc.ai/@twccdocs/rkOTAaoa4?type=view)或是[網站服務](https://man.twcc.ai/@twccdocs/howto-ccs-config-service-port-zh))。
+您可以自行運用的**目標埠**為：5000、5001、5002。將架設於容器內服務的 daemon 設置在其中一個目標埠，並關聯對外埠，完成後，系統將配置一個對應的**對外埠 (50000 ~ 60000)**，您即可於透過公用 IP 和對外埠，對外提供該服務 (例：[AI 推論服務](https://man.twcc.ai/@twccdocs/howto-ccs-tensorflow-inception-v3-port-zh)或是[網站服務](https://man.twcc.ai/@twccdocs/howto-ccs-config-service-port-zh))。
 
-{%hackmd @preview-twccdocs/chunk-ccs-prerequisite-id-zh %}
+{%hackmd @twccdocs/chunk-ccs-prerequisite-id-zh %}
 
 
 ## 檢視服務埠資訊
@@ -62,7 +62,7 @@ $ twccli ls ccs -p -s 886330
 
 ## 關聯服務埠
 
-您可以將容器關聯 5000、5001、5002 **目標埠**，完成後系統將配置相對應的**對外埠**。您可以透過此機制，對外提供容器服務 (例：[AI 推論服務](https://man.twcc.ai/@twccdocs/rkOTAaoa4?type=view)或是[網站服務](https://man.twcc.ai/@twccdocs/howto-ccs-config-service-port-zh))。
+您可以將容器關聯 5000、5001、5002 **目標埠**，完成後系統將配置相對應的**對外埠**。您可以透過此機制，對外提供容器服務 (例：[AI 推論服務](https://man.twcc.ai/@twccdocs/howto-ccs-tensorflow-inception-v3-port-zh)或是[網站服務](https://man.twcc.ai/@twccdocs/howto-ccs-config-service-port-zh))。
 
 <!-- 1 start -->
 
