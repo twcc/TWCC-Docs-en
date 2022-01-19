@@ -136,7 +136,7 @@ $ twccli mk ccs -itype "Caffe2" -img "caffe2-18.08-py3-v1:latest" -gpu 2 -n cusc
 
 :::info
 {%hackmd @docsharedstyle/note-zh %}
-1. 詳細映像檔介紹與說明請參考 [<ins>TWCC 容器映像檔</ins>](https://man.twcc.ai/@twccdocs/ccs-concept-image-main-zh)。<li>容器型號、資源比例與費率，請參考[<ins>價目表</ins>](https://www.twcc.ai/doc?page=price#%E5%AE%B9%E5%99%A8%E9%81%8B%E7%AE%97%E6%9C%8D%E5%8B%99-Container-Compute-Service-CCS)。
+1. 詳細映像檔介紹與說明請參考 [<ins>TWCC 容器映像檔</ins>](https://man.twcc.ai/@twccdocs/ccs-concept-image-main-zh)。<li>容器型號、資源比例與費率，請參考[<ins>價目表</ins>](https://man.twcc.ai/@twccdocs/SJWlN3YDr#%E5%AE%B9%E5%99%A8%E9%81%8B%E7%AE%97%E6%9C%8D%E5%8B%99-Container-Compute-Service-CCS)。
 2. **可用記憶體容量**若以 GiB (1 GiB =  2<sup>30</sup> bytes) 為計算單位，以 c.super 為例，則可用記憶體容量為 84 GiB，請參考[<ins>記憶體容量換算</ins>](https://man.twcc.ai/@twccdocs/concept-ccs-memory-conversion-zh)了解更多。<br></ol>
 :::
 
