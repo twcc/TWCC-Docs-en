@@ -11,7 +11,7 @@ GA: UA-155999456-1
 
 您可以系統預設資訊以一個指令完成容器建立，或是依需求選擇適合的容器型號。
 
-完整容器型號 (含 GPU 數量與其他資源大小)，請參考[價目表](https://www.twcc.ai/doc?page=price#%E5%AE%B9%E5%99%A8%E9%81%8B%E7%AE%97%E6%9C%8D%E5%8B%99-Container-Compute-Service-CCS)。
+完整容器型號 (含 GPU 數量與其他資源大小)，請參考[價目表](https://man.twcc.ai/@twccdocs/SJWlN3YDr#%E5%AE%B9%E5%99%A8%E9%81%8B%E7%AE%97%E6%9C%8D%E5%8B%99-Container-Compute-Service-CCS)。
 
 {%hackmd @twccdocs/chunk-before-you-begin-zh %}
 
@@ -31,8 +31,6 @@ GA: UA-155999456-1
 - 由服務列表點選「**開發型容器**」，在「**開發型容器管理**」頁面，點擊「**＋建立**」。
 
 {%hackmd @twccdocs/ui-chunk-favorites-zh %}
-
-![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_1c43aab7948fc1f045440c590f458fea.png)
 
 ![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_1c43aab7948fc1f045440c590f458fea.png)
 
