@@ -37,9 +37,9 @@ GA: UA-155999456-1
 
 因手機品牌設定不同，可能手機內同時存在多款接收簡訊之 APP (例：Google Messages, Facebook Messenger, 或其他簡訊軟體)，因實際僅能有一個 APP 可接收簡訊，可能在更新時調整了系統設定或發生異常。
 
-- 請確認 APP 已更新為最新版本，並清除各 APP 內存/快取。下以 Android 7.0 手機為例，請將手機內簡訊接收 APP「**清除資料**」與「**清除快取**」，並確認僅使用單一 APP 接收簡訊，避免同時多組接收而造成接收失敗。
+- 請確認 APP 已更新為最新版本，並清除各 APP 內存/快取。下以 Android 10 手機為例，請將手機內簡訊接收 APP「**清除資料**」與「**清除快取**」，並確認僅使用單一 APP 接收簡訊，避免同時多組接收而造成接收失敗。
 
-![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_02eacf67c3cd61404323a63f03a30cdd.png)
+![](https://cos.twcc.ai/SYS-MANUAL/uploads/upload_ea39c990a002be71e6b3de578b78c3cc.png)
 
 ### 原因 5. 超過當日發送上限
 
